@@ -6,15 +6,15 @@
 
 # tampilan pogram
 
-![](gambar/2022-12-06%20.png)
+![](gambar/2022-12-06%20(2).png)
 
-![](gambar/2022-12-06%20.png)
+![](gambar/2022-12-06%20(3).png)
 
-![](gambar/2022-12-06%20.png)
+![](gambar/2022-12-06%20(5).png)
 
 
 # tampilan output tambah data, tampilkan data, hapus data, ubah, dan keluar
 
-![](gambar/2022-12-06%20.png)
+![](gambar/2022-12-06%20(6).png)
 
-![](gambar/2022-12-06%20.png)ssss
+![](gambar/2022-12-06%20(8).png)
